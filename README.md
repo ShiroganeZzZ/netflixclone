@@ -1,2 +1,2 @@
-# netflixclone
-fiz aqui o clone da home da netflix
+# netflixpage
+Basicamente eu refiz uma tela da Netflix
